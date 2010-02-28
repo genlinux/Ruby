@@ -1,3 +1,4 @@
+#Hool method not fully explored
 class Report
   def initialize
     @title='Monthly Report'
