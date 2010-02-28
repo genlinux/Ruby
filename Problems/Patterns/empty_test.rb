@@ -1,4 +1,4 @@
-#First pattern test or unit test
+#First pattern test or unit test, still lot more to do with
 require 'test/unit'
 def empty?(s)
 end
@@ -16,5 +16,8 @@ class EmptyTest < Test::Unit::TestCase
     assert ! empty?(@one_char_string)
     assert ! empty?(@long_string)
   end
+def 
+test
+end
 end
 
