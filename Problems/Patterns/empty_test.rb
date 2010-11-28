@@ -1,4 +1,4 @@
-#First pattern test or unit test, still lot more to do with
+First pattern test or unit test, still lot more to do with
 require 'test/unit'
 def empty?(s)
 end
